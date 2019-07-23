@@ -1,0 +1,8 @@
+C:\Users\aleks\source\repos\TarrifComparison\TariffComparison.Domain\obj\Debug\netcoreapp2.1\TariffComparison.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\TarrifComparison\TariffComparison.Domain\obj\Debug\netcoreapp2.1\TariffComparison.Domain.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\TarrifComparison\TariffComparison.Domain\obj\Debug\netcoreapp2.1\TariffComparison.Domain.AssemblyInfo.cs
+C:\Users\aleks\source\repos\TarrifComparison\TariffComparison.Domain\bin\Debug\netcoreapp2.1\TariffComparison.Domain.deps.json
+C:\Users\aleks\source\repos\TarrifComparison\TariffComparison.Domain\bin\Debug\netcoreapp2.1\TariffComparison.Domain.dll
+C:\Users\aleks\source\repos\TarrifComparison\TariffComparison.Domain\bin\Debug\netcoreapp2.1\TariffComparison.Domain.pdb
+C:\Users\aleks\source\repos\TarrifComparison\TariffComparison.Domain\obj\Debug\netcoreapp2.1\TariffComparison.Domain.dll
+C:\Users\aleks\source\repos\TarrifComparison\TariffComparison.Domain\obj\Debug\netcoreapp2.1\TariffComparison.Domain.pdb

@@ -1,0 +1,14 @@
+C:\Users\aleks\source\repos\TarrifComparison\TarrifComparison\bin\Debug\netcoreapp2.1\TarrifComparison.deps.json
+C:\Users\aleks\source\repos\TarrifComparison\TarrifComparison\bin\Debug\netcoreapp2.1\TarrifComparison.runtimeconfig.json
+C:\Users\aleks\source\repos\TarrifComparison\TarrifComparison\bin\Debug\netcoreapp2.1\TarrifComparison.runtimeconfig.dev.json
+C:\Users\aleks\source\repos\TarrifComparison\TarrifComparison\bin\Debug\netcoreapp2.1\TarrifComparison.dll
+C:\Users\aleks\source\repos\TarrifComparison\TarrifComparison\bin\Debug\netcoreapp2.1\TarrifComparison.pdb
+C:\Users\aleks\source\repos\TarrifComparison\TarrifComparison\obj\Debug\netcoreapp2.1\TarrifComparison.csprojAssemblyReference.cache
+C:\Users\aleks\source\repos\TarrifComparison\TarrifComparison\obj\Debug\netcoreapp2.1\TarrifComparison.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\TarrifComparison\TarrifComparison\obj\Debug\netcoreapp2.1\TarrifComparison.RazorAssemblyInfo.cache
+C:\Users\aleks\source\repos\TarrifComparison\TarrifComparison\obj\Debug\netcoreapp2.1\TarrifComparison.RazorAssemblyInfo.cs
+C:\Users\aleks\source\repos\TarrifComparison\TarrifComparison\obj\Debug\netcoreapp2.1\TarrifComparison.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\TarrifComparison\TarrifComparison\obj\Debug\netcoreapp2.1\TarrifComparison.AssemblyInfo.cs
+C:\Users\aleks\source\repos\TarrifComparison\TarrifComparison\obj\Debug\netcoreapp2.1\TarrifComparison.RazorTargetAssemblyInfo.cache
+C:\Users\aleks\source\repos\TarrifComparison\TarrifComparison\obj\Debug\netcoreapp2.1\TarrifComparison.dll
+C:\Users\aleks\source\repos\TarrifComparison\TarrifComparison\obj\Debug\netcoreapp2.1\TarrifComparison.pdb
